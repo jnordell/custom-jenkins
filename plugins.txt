@@ -1,1 +1,4 @@
 github-oauth:0.24
+git:2.6.0
+github-api:1.77
+mailer:1.18
